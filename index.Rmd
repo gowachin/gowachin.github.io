@@ -1,9 +1,11 @@
 ---
-title: "Welcome to Grenoble!"
+title: "Hi there, I'm Maxime Jaunatre!"
 output:
   html_document:
     includes:
       in_header: cover_with_logo.html
 ---
 
-## This is the website of our R community
+I'm a Master student in Ecology-Evolution and an R enthusiast. 
+
+[Read more about my life...](about.html)
