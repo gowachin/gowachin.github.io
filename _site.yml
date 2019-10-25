@@ -6,19 +6,19 @@ navbar:
     - text: About
       icon: fa-user
       href: about.html
-    - text: "Orga"
-      icon: fa-sitemap
-      href: orga.html
-    - text: "Calendar"
-      icon: fa-calendar
-      href: calendar.html
-    - text: "Sessions"
-      icon: fa-calendar
-      href: sessions.html  
-    - text: "Members"
-      icon: fa-user 
-      href: members.html
-    - text: "Blog"
+#    - text: "Orga"
+#      icon: fa-sitemap
+#      href: orga.html
+#    - text: "Calendar"
+#      icon: fa-calendar
+#      href: calendar.html
+#    - text: "Sessions"
+#      icon: fa-calendar
+#      href: sessions.html  
+#    - text: "Members"
+#      icon: fa-user 
+#      href: members.html
+#    - text: "Blog"
 #      icon: fa-rss
 #      href: https://r-in-grenoble.github.io/blog/    # CHANGE HERE 
   right:
