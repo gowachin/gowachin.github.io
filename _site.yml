@@ -6,6 +6,9 @@ navbar:
     - text: About
       icon: fa-user
       href: about.html
+    - text: "Papers / Talks"
+      icon: fa-archive
+      href: works.html
 #    - text: "Orga"
 #      icon: fa-sitemap
 #      href: orga.html
@@ -21,13 +24,35 @@ navbar:
 #    - text: "Blog"
 #      icon: fa-rss
 #      href: https://r-in-grenoble.github.io/blog/    # CHANGE HERE 
+#   - text: About
+#     icon: fa-user
+#     href: about.html
+#   - text: '#rstats'
+#   menu:
+#   - text: Blog
+#   icon: fa-rss
+#   href: https://privefl.github.io/blog/
+#   - text: Package bigstatsr
+#   icon: fa-archive
+#   desc: Statistical tools with big matrices stored on disk.
+#   href: https://privefl.github.io/bigstatsr/
+#     - text: Package bigsnpr
+# icon: fa-archive
+# desc: Analysis of massive SNP arrays.
+# href: https://privefl.github.io/bigsnpr/
+#   - text: '#rusersgrenoble'
+# icon: fa-group
+# href: https://r-in-grenoble.github.io/
+#   - text: Advanced R course
+# icon: fa-graduation-cap
+# href: https://privefl.github.io/advr38book/
   right:
     - icon: fa-envelope-o
       href: mailto:maxime.jaunatre@etu.univ-grenoble-alpes.fr                      # CHANGE HERE 
 #    - icon: fa-twitter
 #      href: https://twitter.com/hashtag/rusersgrenoble?src=hash
     - icon: fa-github
-      href: https://https://github.com/gowachin/website
+      href: https://github.com/gowachin/website
 output:
   html_document:
     theme: cosmo

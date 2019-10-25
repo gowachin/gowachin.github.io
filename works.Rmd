@@ -1,0 +1,77 @@
+### Publications
+
+*To complete later*
+
+<!--
+<br>
+
+### Publications
+
+[**FULL LIST**](https://scholar.google.fr/citations?user=ykDpRgwAAAAJ)
+
+- Privé, Florian, et al. "Making the most of Clumping and Thresholding for polygenic scores." bioRxiv (2019). [[Preprint]](https://doi.org/10.1101/653204)
+
+- Privé, Florian, Hugues Aschard, and Michael GB Blum. "Efficient implementation of penalized regression for genetic risk prediction." Genetics (2019). [[Open access]](https://doi.org/10.1534/genetics.119.302019)
+
+- Privé, Florian, et al. "Efficient analysis of large-scale genome-wide data with two R packages: bigstatsr and bigsnpr." Bioinformatics (2018). [[Open access]](https://doi.org/10.1093/bioinformatics/bty185)
+
+### Conferences
+
+- [Rencontres R 2018](https://r2018-rennes.sciencesconf.org/): The R package bigstatsr: Memory- and Computation-Efficient Statistical Tools for Big Matrices [[Slides]](https://privefl.github.io/RR18/bigstatsr.html)
+
+- [eRum 2018](https://2018.erum.io/): An R package for statistical tools with big matrices stored on disk. [[Recording]](https://youtu.be/w3a1-KLmDM8) [[Slides]](https://privefl.github.io/eRum-2018/slides.html)
+
+- [Recomb-Genetics 2018](http://recomb2018.fr/recomb-genetics/): Predicting complex diseases: performance and robustness. [[Slides]](https://privefl.github.io/thesis-docs/recomb18.html)
+
+- [LIFE 2018](https://life.univ-grenoble-alpes.fr/life-world/events-news/life-annual-meeting-725690.htm?RH=11210192165071361): Predicting complex diseases: performance and robustness. [[Slides]](https://github.com/privefl/paper2-PRS/blob/master/LIFE/pres-f-priv%C3%A9.pdf)
+
+- [hackseq 2017](http://www.hackseq.com/): Developing advanced R tutorials for genomic data analysis. [[Website]](https://hackseq.github.io/2017_project_5/)
+
+- [useR!2017](https://user2017.brussels/): The R package bigstatsr:
+Memory- and Computation-Efficient Tools for Big Matrices. [[Recording]](https://t.co/aYt0q8MeXJ) [[Slides]](https://privefl.github.io/useR-2017/slides.html)
+
+- [ALT'2016](http://alt2016.sciencesconf.org/): Goodness-of-fit tests for the Weibull distribution with censored data. [[Slides]](slides_GOFW.pdf#1)
+
+### Some other presentations
+
+You can reuse (and modify) some of my presentations as long as you give attribution (just as in open source licensing).
+
+- [Penalized methods for genetic data analysis](https://privefl.github.io/R-presentation/penalised-genetics.html) ([King's College London](https://www.kcl.ac.uk/ioppn/depts/biostatisticshealthinformatics/teaching/courses/machine-learning))
+
+- [R Markdown](https://privefl.github.io/R-presentation/rmarkdown.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+- [R beyond statistics](https://privefl.github.io/R-presentation/beyond-stats.html) ([SARI, Grenoble](https://sari.grenoble-inp.fr/doku.php))
+
+- Efficient analysis of large-scale matrices with two R packages: bigstatsr and bigsnpr: [presentation](https://privefl.github.io/R-presentation/bigstatsr.html) + [exercise](https://privefl.github.io/bigsnpr/articles/exo.html) ([State of The R RUG](https://stateofther.github.io/))
+
+- [Efficient statistical tools for analyzing omics data, with a focus on polygenic risk prediction](https://privefl.github.io/thesis-docs/aarhus.html) (Aarhus, Denmark)
+
+- [What R can do for you](https://privefl.github.io/R-presentation/whatrcando.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+- [High-dimensional data: a different kind of big data](https://privefl.github.io/thesis-docs/data-club.html) ([Grenoble Data Club](https://data-institute.univ-grenoble-alpes.fr/education/data-club-730304.htm))
+
+- [Make your personal webpage with R](https://privefl.github.io/R-presentation/rmarkdown-websites.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+- [Instructor Software Carpentry](https://grenoble-alpes-data-institute.github.io/2018-05-31-grenoble-software-carpentry/)
+
+- [The R package {bigstatsr}: memory- and computation-efficient tools for big matrices stored on disk](https://privefl.github.io/R-presentation/bigstatsr.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+- [Rcpp](https://privefl.github.io/R-presentation/Rcpp.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+- [RStudio & Git](https://privefl.github.io/R-presentation/rstudio-git.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+- [Visualisation with ggplot2](https://privefl.github.io/R-presentation/ggplot2.html) ([Grenoble RUG](https://r-in-grenoble.github.io/))
+
+### Teaching
+
+- courses and practical exercises in Mathematics for students in their first semester after high school (128H in two years)
+
+- advanced R course for PhD students (57H in two years)
+
+- introductory R course for PhD students (21H)
+
+- statistical methods for first year engineer students (third year after high school) at ENSIMAG (18H)
+
+- software carpentry instructor -- introductory R course (7H)
+
+-->
