@@ -3,7 +3,7 @@ title: "Hi there, I'm Maxime Jaunatre!"
 output:
   html_document:
     includes:
-      in_header: cover_with_logo.html
+      in_header: opening.html
 ---
 
 I'm a Master student in Ecology-Evolution and an R enthusiast. 
