@@ -8,4 +8,4 @@ output:
 
 I'm a Master student in Ecology-Evolution and an R enthusiast. 
 
-[Read more about my life...](about.html)
+[Read more about my life and projects...](about.html)
