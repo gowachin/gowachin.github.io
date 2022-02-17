@@ -2,25 +2,28 @@
 title: "About myself"
 ---
 
-I'm fond of __Evolution__ of Life and an __ecology__ enthusiast.  
-I'm secretary of [Guepe](https://www.facebook.com/associationguepe/), an association for sharing naturalist information all around Grenoble.
-You can find me on [GitHub](https://github.com/gowachin) as \@gowachin.
+I'm fond of __Evolution__ of Life and an ecology enthusiast. 
+This got me __addicted to R__ and package programming.
 
+You can find me on [GitHub](https://github.com/gowachin) as \@gowachin.
 
 ### Current work
 
-I am a student in __Ecology__ and __Evolution__ in Grenoble.
+I am an R __modelling engineer__ within the [UMR AMURE](https://www.umr-amure.fr/) at IFREMER Brest.
 
-I'm interested biogeography of species and ecosystems, and how environnement drive this througt time.
+I'm interested biogeography of species and population dynamics, and how environnement drive this througt time.
 
 
 ### Hometown -- Education
 
-It's difficult to say where I'm from, as I lived in [Briançon](https://en.wikipedia.org/wiki/Brian%C3%A7on), [Nice](https://en.wikipedia.org/wiki/Nice), [La Réunion](https://en.wikipedia.org/wiki/R%C3%A9union) and lately [Grenoble](https://en.wikipedia.org/wiki/Grenoble). France.
+It's difficult to say where I'm from, as I lived in [Briançon](https://en.wikipedia.org/wiki/Brian%C3%A7on), [Nice](https://en.wikipedia.org/wiki/Nice), [La Réunion](https://en.wikipedia.org/wiki/R%C3%A9union),  [Grenoble](https://en.wikipedia.org/wiki/Grenoble) and lately [Brest](https://fr.wikipedia.org/wiki/Brest) in France.
 I naturally love trips and have seen a lot of stuff around the world.
+Living close to the sea and the mountains, I do a lot of outdoor activities like trekking and diving.
 
 I've done all my graduates studies at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), in __biology__, __geology__ and __ecology__.
-This studies were linked with multiple internships at the [LECA](https://leca.osug.fr/).
+This studies were linked with multiple internships at the [LECA](https://leca.osug.fr/). 
+
+I was secretary of [Guepe](https://www.facebook.com/associationguepe/), an association for sharing naturalist information all around Grenoble and share R skills.
 
 
 _This website is mainly used for sharing my works and hobbies._

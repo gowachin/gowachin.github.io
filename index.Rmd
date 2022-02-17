@@ -6,6 +6,6 @@ output:
       in_header: opening.html
 ---
 
-I'm a Master student in Ecology-Evolution and an R enthusiast. 
+I'm a ecological modelling engineer and an R enthusiast. 
 
 [Read more about my life and projects...](about.html)
