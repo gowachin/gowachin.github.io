@@ -6,6 +6,9 @@ navbar:
     - text: "About"
       icon: fa-users
       href: about.html
+    - text: "Papers"
+      icon: fa-scroll
+      href: works.html
     - text: "Scuba Diving"
       icon: fa-swimmer
       href: diver.html
@@ -22,9 +25,11 @@ navbar:
         href: https://github.com/gowachin/shinyDiveR
   right:
     - icon: fa-envelope
-      href: mailto:maxime.jaunatre@etu.univ-grenoble-alpes.fr    # CHANGE HERE 
-    - icon: fab-github-square
+      href: mailto:maxime.jaunatre@yahoo.fr    # CHANGE HERE 
+    - icon: fa-github
       href: https://github.com/gowachin/website
+    - icon: fa-stack-overflow
+      href: https://stackoverflow.com/users/12501379/gowachin
 output:
   html_document:
     theme: cosmo
