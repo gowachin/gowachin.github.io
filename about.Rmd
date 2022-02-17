@@ -11,7 +11,7 @@ You can find me on [GitHub](https://github.com/gowachin) as \@gowachin.
 
 I am an R __modelling engineer__ within the [UMR AMURE](https://www.umr-amure.fr/) at IFREMER Brest.
 
-I'm interested biogeography of species and population dynamics, and how environnement drive this througt time.
+I'm interested in biogeography of species and population dynamics, and how environnement drive this througt time.
 
 
 ### Hometown -- Education
@@ -23,7 +23,7 @@ Living close to the sea and the mountains, I do a lot of outdoor activities like
 I've done all my graduates studies at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), in __biology__, __geology__ and __ecology__.
 This studies were linked with multiple internships at the [LECA](https://leca.osug.fr/). 
 
-I was secretary of [Guepe](https://www.facebook.com/associationguepe/), an association for sharing naturalist information all around Grenoble and share R skills.
+I was secretary of [Guepe](https://www.facebook.com/associationguepe/), an association for sharing naturalist information all around Grenoble and R skills.
 
 
 _This website is mainly used for sharing my works and hobbies._
