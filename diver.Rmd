@@ -6,12 +6,14 @@ title: "Scuba Diving"
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-I started scubadiving in la Réunion, when since have passed the 2nd level diver (CMAS) at Grenoble University. 
+I started scubadiving in la Réunion, when since have passed the 2nd level diver (CMAS) at Grenoble University and PS1 (Cave Diving) with the CRPS AURA. I'm actually working on my 3rd level.
 
 ### Personnal experience in scuba-diving
 
-At the time of writing this page, I have more than 40 dives in Mediterranean Sea, Red Sea and Indian ocean waters. I dived twice in lake and on experience in underground water. 
-As a biologist I can't dive without taking a lot of time to look for small invertebrates or even algae ^^
+At the time of writing this page, I have more than 70 dives in Mediterranean Sea, Red Sea, Indian ocean and Atlantic Ocean (Brest) waters. I dived few times in lake (Bourget) and in underground water (Bourg St Andreol). I recently visited a lot of wrecks near Brest.
+As a biologist I can't dive without taking a lot of time to look for small invertebrates or even algae ^^ 
+
+I'm working on a cool way to display my divebook with map and some stats, but it's mean less time underwater.
 
 I aim at learning more technical diving skills to maybe one day work as a biologist diver or just to explore other barely seen places.
 
