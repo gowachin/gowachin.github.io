@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       icon: fa-users
       href: about.html
-    - text: "Papers"
+    - text: "Papers and works"
       icon: fa-archive
       href: works.html
     - text: "Scuba Diving"
@@ -15,6 +15,10 @@ navbar:
     - text: "R packages"
       icon: fa-archive
       menu:
+      - text: Package matreex
+        icon: fa-archive
+        desc: Forest population simulation
+        href: https://github.com/gowachin/matreex
       - text: Package DiveR
         icon: fa-archive
         desc: Scuba Diving planification tool
@@ -30,6 +34,8 @@ navbar:
       href: https://github.com/gowachin/website
     - icon: fa-stack-overflow
       href: https://stackoverflow.com/users/12501379/gowachin
+    - icon: fa-orcid
+      href: https://orcid.org/0009-0002-2816-1677
 output:
   html_document:
     theme: cosmo

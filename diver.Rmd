@@ -6,7 +6,7 @@ title: "Scuba Diving"
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-I started scubadiving in la Réunion, when since have passed the 2nd level diver (CMAS) at Grenoble University and PS1 (Cave Diving) with the CRPS AURA. I'm actually working on my 3rd level.
+I started scubadiving in la Réunion, when since have passed the 2nd level diver (CMAS) at Grenoble University, 3rd level at Brest and PS1 (Cave Diving) with the CRPS AURA. I'm actually working on my PS2 level, once I've been clear from my first diving accident (bent that's healing).
 
 ### Personnal experience in scuba-diving
 
@@ -25,26 +25,27 @@ It also helped me to work more on my personal skill, to demonstrate perfect tech
 
 ## Coding about Diving
 
-As the University developed a great online platform to learn diving theory, I started to code simple diving algorithms in R to understand a bit more about dive planification, air consumption and gas saturation.
+As the University developed a great online platform to learn diving theory, I started to code simple diving algorithms in R to understand a bit more about dive planification, air consumption and gas saturation. However my accident gave me a second look on this and keep in mind that these algorithms are models and imperfect by nature.
 
 All the code is on a <i class="fa fa-github"></i> [Github](https://github.com/gowachin/DiveR) repository and I hope to put this R package on CRAN one day !
 
 
 ### Shiny application
 
-Because I support open-source and love teaching, I am currently working on a project to use my code with the university students.
+Because I support open-source and love teaching, I was working on a project to use my code with the university students.
 
 This could be done with a shiny application using my R package. It's my very first shiny application and I hope to build it for a long time, because I have many ideas !
 
 Be patient, it's loading the first time...use this time to make a good tea ;)
 
+<!--
 <iframe width='1000px' height='800px' src='https://im2ag-shiny.univ-grenoble-alpes.fr/fontaico/PA40/' >
   <p>Your browser does not support iframes</p>
 </iframe>
-<!--
+-->
 <iframe width='1000px' height='800px' src='https://gowachin.shinyapps.io/shiny_DiveR/' >
   <p>Your browser does not support iframes</p>
 </iframe>
--->
+
 
 Again, the code is on a <i class="fa fa-github"></i> [Github](https://github.com/gowachin/shinyDiveR)  repository, feel free to report anything that seem usefull !

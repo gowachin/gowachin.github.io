@@ -9,21 +9,21 @@ You can find me on [GitHub](https://github.com/gowachin) as \@gowachin.
 
 ### Current work
 
-I am an R __modelling engineer__ within the [UMR AMURE](https://www.umr-amure.fr/) at IFREMER Brest.
+I am an R __modelling engineer__ within the [UR LESSEM](https://www.lessem.fr) at INRAE Grenoble.
 
 I'm interested in biogeography of species and population dynamics, and how environnement drive this througt time. However this is more a pretext to code all day long about living beings.
 
 
 ### Hometown -- Education
 
-It's difficult to say where I'm from, as I lived in [Briançon](https://en.wikipedia.org/wiki/Brian%C3%A7on), [Nice](https://en.wikipedia.org/wiki/Nice), [La Réunion](https://en.wikipedia.org/wiki/R%C3%A9union),  [Grenoble](https://en.wikipedia.org/wiki/Grenoble) and lately [Brest](https://fr.wikipedia.org/wiki/Brest) in France.
+It's difficult to say where I'm from, as I lived in [Briançon](https://en.wikipedia.org/wiki/Brian%C3%A7on), [Nice](https://en.wikipedia.org/wiki/Nice), [La Réunion](https://en.wikipedia.org/wiki/R%C3%A9union),  [Grenoble](https://en.wikipedia.org/wiki/Grenoble), [Brest](https://fr.wikipedia.org/wiki/Brest) before returning to Grenoble in France.
 <!-- I naturally love trips and have seen a lot of stuff around the world. -->
-Living close to the sea and the mountains, I do a lot of outdoor activities like trekking and scuba-diving.
+Living close to the sea and the mountains, I do a lot of outdoor activities like trekking, climbing, caving and scuba-diving.
 
 I've done all my graduates studies at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), in __biology__, __geology__ and __ecology__.
 This studies were linked with multiple internships at the [LECA](https://leca.osug.fr/). 
 
-I was secretary of [Guepe](https://www.facebook.com/associationguepe/), an association for sharing naturalist information all around Grenoble and R skills.
+I was secretary of [Guepe](https://www.facebook.com/associationguepe/), an association for sharing naturalist information all around Grenoble and R skills. I'm currently involved in a mountaineering club named [GUCEM](https://www.gucem.fr/) that occupy many of my weekends.
 
 
 _This website is mainly used for sharing my works and hobbies._
