@@ -2,9 +2,14 @@
 title: "Papers and works"
 ---
 
+
+## Software
+
+- Maxime Jaunatre, Julien Barrere, Thomas Cordonnier, Arnaud Guyennon, Bjoern Reineking, et al.. matreex: Simulation IPM for forest dynamic depending on climatic variables from Kunstler et al (2020). 2022, [[https://hal.science/hal-04453769]](https://hal.science/hal-04453769)
+
 ### Publications
 
-- J. Barrere, B. Reineking, M. Jaunatre, G. Kunstler. "Forest storm resilience depends on the interplay between functional composition and climate—Insights from European‐scale simulations" in: Functional Ecology [in review]
+-  Barrere, J., Reineking, B., Jaunatre, M., & Kunstler, G. (2024). Forest storm resilience depends on the interplay between functional composition and climate—Insights from European-scale simulations. Functional Ecology, 00, 1–17. [[Open access]](https://doi.org/10.1111/1365-2435.14489)
 
 -  E. Barthelemy, M. Jaunatre, and F. Munoz. “ecophylo: Simulating and assessing eco-evolutionary dynamics under past environmental changes in Python and R”. in: Global Ecology and Biogeography [in review].
 
